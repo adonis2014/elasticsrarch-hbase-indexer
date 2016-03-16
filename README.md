@@ -1,0 +1,2 @@
+# elasticsrarch-hbase-indexer
+hbase数据通过RegionServer同步到elasticsearch中
